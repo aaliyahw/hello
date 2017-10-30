@@ -1,3 +1,3 @@
 setInterval(function() {
-	console.log('hi');
+	console.log('hello');
 }, 5000);
